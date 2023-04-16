@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hello World ! 👋
+ 
+* 🧐   Interested in full stack. 
+* 💻   Working as a NodeJs Developer at MeasureOne
+* 💼   Worked as a Senior Automation QA at LTIMindtree
+* 🎓   M.Tech in Computer Science and Technology at IIT Tirupati. Major GCPA 8.6/10 .
+* 🌱   Currently learning ReactJs, Docker and Kubernates .
+* 📚   Reading 《Spiritual books.》
+* 💻   With 4 years' computer science and technology education and 2 years' development working experience.
+* ⛵   Encouraging people for coding.
 
-<!--
-**JayRathod341997/JayRathod341997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
